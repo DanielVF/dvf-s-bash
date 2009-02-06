@@ -7,3 +7,4 @@ echo "source ~/.dvf/bashrc" >> .bash_profile
 Update:
 cd ~/dvf
 git pull origin master
+source bashrc
