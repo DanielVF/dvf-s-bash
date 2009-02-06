@@ -3,6 +3,7 @@ alias gci='git ci -m'
 alias gcia='git ci -a -m'
 alias gpull='git pull origin master'
 alias gpush='git push origin master'
+alias gtoday='git log --pretty=oneline --since="1 day ago"'
 
 export HISTCONTROL=erasedups
 export HISTSIZE=10000
