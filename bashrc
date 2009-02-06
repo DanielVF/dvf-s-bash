@@ -1,6 +1,8 @@
 alias g='git'
 alias gci='git ci -m'
 alias gcia='git ci -a -m'
+alias gpull='git pull origin master'
+alias gpush='git push origin master'
 
 export HISTCONTROL=erasedups
 export HISTSIZE=10000
