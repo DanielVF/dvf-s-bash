@@ -21,7 +21,7 @@ fi
 
 if [ -d /home/httpd/vhosts ]
 then
-    export PLESKVHOST=/var/www/vhosts
+    export PLESKVHOST=/home/httpd/vhosts
 fi
 
 function _vhosts {
