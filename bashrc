@@ -1,6 +1,6 @@
 alias g='git'
-alias gci='git ci -m'
-alias gcia='git ci -a -m'
+alias gci='git commit -m'
+alias gcia='git commit -a -m'
 alias gpull='git pull origin master'
 alias gpush='git push origin master'
 alias gtoday='git log --pretty=oneline --since="1 day ago"'
